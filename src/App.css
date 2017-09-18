@@ -1,0 +1,28 @@
+a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  box-shadow: 0 0 12px paleturquoise;
+  color: blue;
+}
+
+a:active {
+  color: red;
+}
+
+img {
+  width: 400px;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
